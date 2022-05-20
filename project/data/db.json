@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Create  To do list ",
+      "author": "Tejas kumar",
+      "taskinfo": "create a public repo in github and send the code ",
+      "id": 2
+    },
+    {
+      "title": "My Email id",
+      "author": "Tejas Kumar",
+      "taskinfo": "Tejas.kumar.9081@gmail.com",
+      "id": 3
+    }
+  ]
+}
